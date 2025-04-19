@@ -24,7 +24,8 @@ esac
 done
 
 # system depencies
-apt update
+echo "Updating and installing system dependencies"
+apt -q update
 apt-get install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential
 
 # create a venv in ~/.pwn_noodles_env
