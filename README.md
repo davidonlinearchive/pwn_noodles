@@ -1,4 +1,4 @@
-# Pwn Noodles
+# Pwn Noodles 🍜
 
 A one‑stop Bash installer for common binary‑exploitation and reverse‑engineering toolchains on Debian‑based systems.  
 
