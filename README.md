@@ -45,7 +45,7 @@ git clone https://github.com/davidonlinearchive/pwn_noodles.git
 cd pwn_noodles
 
 # Make script executable
-chmod +x install_tools.sh
+chmod +x pwn_noodles.sh
 
 # Run as root
-sudo ./install_tools.sh
+sudo ./pwn_noodles.sh
