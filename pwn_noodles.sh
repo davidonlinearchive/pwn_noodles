@@ -71,7 +71,8 @@ install_checksec(){
 
 install_pwndbg(){
 	git clone https://github.com/pwndbg/pwndbg 
-	pwndbg/setup.sh
+ 	cd pwndbg
+  	./setup.sh
 }
 
 
