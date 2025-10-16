@@ -4,7 +4,7 @@ A one‑stop Bash installer for common binary‑exploitation and reverse‑engin
 
 ---
 
-## 🚀 Description
+##  Description
 
 **Pwn Noodles** streamlines setup of your local pentesting and reversing lab by automating:
 
@@ -17,7 +17,7 @@ All installs occur in an isolated Python virtual environment so your system Pyth
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Root‑check & OS detection**  
 - **System dependency** installation (`python3‑venv`, `git`, `build‑essential`, etc.)  
@@ -30,14 +30,14 @@ All installs occur in an isolated Python virtual environment so your system Pyth
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Debian‑based Linux (Ubuntu, Parrot, Kali, etc.)  
 - `bash`, `python3`, `snapd`  
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 # Clone the repo
