@@ -41,7 +41,7 @@ All installs occur in an isolated Python virtual environment so your system Pyth
 
 ```bash
 # Clone the repo
-git clone https://github.com/davidonlinearchive/pwn_noodles.git
+git clone https://github.com/davidonlinearchive/pwn-noodles.git
 cd pwn_noodles
 
 # Make script executable
