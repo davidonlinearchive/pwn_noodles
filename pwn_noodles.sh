@@ -59,7 +59,7 @@ install_pwntools(){
 
 # ghidra
 install_ghidra(){
-	snap install ghidra
+	apt install ghidra
 }
 
 # checksec
