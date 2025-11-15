@@ -24,7 +24,7 @@ All installs occur in an isolated Python virtual environment so your system Pyth
 - **Virtualenv creation** at `~/.pwn_noodles_env`  
 - **Menu‑driven installer** for:
   - Pwntools & Python libs  
-  - Ghidra via Snap  
+  - Ghidra via apt
   - checksec via pip  
   - Pwndbg GDB plugin  
 
